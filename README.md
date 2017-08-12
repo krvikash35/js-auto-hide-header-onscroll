@@ -1,4 +1,6 @@
 #auto-hide-header-onscroll
 
+This is an example implementation of auto-hiding header on scroll, using pure javascript code.
+Read the blog article at
 
-Auto hide fixed header on scroll using pure javascript a long with optimization tips
+[Read blog article at sysleaf](https://www.sysleaf.com)

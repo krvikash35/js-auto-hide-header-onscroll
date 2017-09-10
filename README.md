@@ -1,4 +1,4 @@
-# auto-hide-header-onscroll
+# js-auto-hide-header-onscroll
 
 This is an example about, how to implement, auto-hide header on scroll, using pure javascript code.
 
